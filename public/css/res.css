@@ -1,0 +1,75 @@
+@media (max-width: 1201px) and (min-width: 990px){
+		
+}
+
+@media (max-width: 991px) {
+	.top-menu-ul {
+	    font-size: 1.1em;
+	}
+	h3 {
+	    font-size: 24px;
+	}
+	.block-style-1 p {
+	    font-size: 14px;
+	}
+	.btn.btn-primary{
+		font-size: 16px;
+	}
+	.test-button-next, .test-button-prev {
+	    bottom: -40px;
+	}
+	.section-fix .btn-info {
+	    display: block;
+	    vertical-align: top;
+	    margin-top: 10px;
+
+	}
+}
+@media (max-width: 767px) {
+	.block-style-1.mh, .block-style-2{
+	    min-height: 0;
+	}
+	.xs-hide{
+		display: none;
+	}
+	.xs-show{
+		display: block;
+	}
+	.menu-link {
+	    float: right;
+	    font-size: 24px;
+	    padding: 10px;
+	}
+	.menu-link a {
+	    color: #fff;
+	}
+	h1 {
+	    font-size: 30px;
+	}
+	.banner-area .lead {
+	    font-size: 24px;
+	}
+	.mb-2x{
+		margin-bottom: 20px;
+	}
+	.swiper-button-next {
+	    right: 20px;
+	}
+	.swiper-button-prev.our-clients-button-prev {
+	    left: 20px;
+	}
+	.test-swiper {
+	    margin-bottom: 60px;
+	}
+	.com-col{
+		text-align: center;
+	}
+	
+	.top-menu .top-menu-ul .dropdown {
+		display:none;
+	}
+	.top-menu .top-menu-ul .menu-link {
+		margin-top: -15px;
+	}
+	
+}
